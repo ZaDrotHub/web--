@@ -834,7 +834,7 @@ img{
 /* Media start */
 
 @media screen and (min-width: 767px){
-    .hui{
+    .burger{
         display: none;  
     }
 }
